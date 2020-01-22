@@ -14,4 +14,4 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-test for change 906 321 329 828 1024 and 928 1202 628
+test for change 906 321 329 828 1024 and 928 1202 628 608
